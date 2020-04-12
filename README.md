@@ -1,2 +1,2 @@
-# node-iniciante
-Aula de Node.js por #NodeBR (Erick Wendel)
+# Nodejs
+Curso de Node.js por Erick Wendel
